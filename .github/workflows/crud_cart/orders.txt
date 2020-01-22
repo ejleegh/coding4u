@@ -1,0 +1,4 @@
+﻿kim a2 2 b3 1 b5 2 d1 2 d6 3 d2 2 0
+lee a3 1 a6 2 b1 1 d4 3 0
+cho a2 2 b3 1 d1 1 d2 2 0
+park a4 1 b5 2 d2 3 d5 3 0
